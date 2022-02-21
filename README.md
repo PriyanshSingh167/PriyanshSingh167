@@ -21,7 +21,9 @@
 ---
 Contact via Email 📧 <br/>
 [Click here](mailto:rosterkhanna@gmail.com)
--->
+---
+Thanks for checking it out. Have a good day. ✨
+---
 
 
 [1]: https://www.linkedin.com/in/priyansh-singh-549487185/
