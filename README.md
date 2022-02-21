@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priyansh Singh
 ---
-![facebook](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20with%20padding/facebook.png?raw=true)[3]
+![3](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20with%20padding/facebook.png?raw=true)
 ---
 
 - 🔭 I’m currently working on ...
