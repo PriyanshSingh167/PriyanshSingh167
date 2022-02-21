@@ -9,7 +9,7 @@
 - 👀 Looking for Job & Internship
 - 🚀 Hobbies: Chess and Football
 - 😎 Fun Fact 1: I'm Fun and rational person
-- 😗 Fun Fact 2: I am not an ~~extrovert
+- 😗 Fun Fact 2: I am not an ~~extrovert~~
 
 -->
 
