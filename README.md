@@ -2,7 +2,7 @@
 ---
 [![linkedin](![image](https://user-images.githubusercontent.com/91168597/154909819-3e08a06d-0510-449c-bb9e-54a01eca243f.png)
 )][1][![discord](![image](https://user-images.githubusercontent.com/91168597/154909911-087e0fa5-5bcb-440f-9c7c-590b13af8d50.png)
-)][2][![facebook](![image](https://user-images.githubusercontent.com/91168597/154910017-1e404445-88eb-4306-8f48-437be5eac887.png)
+)][2][![facebook](![image](https://github.com/carlsednaoui/gitsocial/blob/master/assets/icons%20with%20padding/facebook.png?raw=true)
 )][3]
 ---
 
