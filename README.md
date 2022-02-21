@@ -1,9 +1,10 @@
-### Hi there 👋
-
-<!--
-**PriyanshSingh167/PriyanshSingh167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Priyansh Singh
+---
+[![linkedin](![image](https://user-images.githubusercontent.com/91168597/154909819-3e08a06d-0510-449c-bb9e-54a01eca243f.png)
+)][1][![discord](![image](https://user-images.githubusercontent.com/91168597/154909911-087e0fa5-5bcb-440f-9c7c-590b13af8d50.png)
+)][2][![facebook](![image](https://user-images.githubusercontent.com/91168597/154910017-1e404445-88eb-4306-8f48-437be5eac887.png)
+)][3]
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[1]: https://www.linkedin.com/in/priyansh-singh-549487185/
+[2]: https://discord.com/invite/zVr7NFd3
+[3]: https://www.facebook.com/profile.php?id=100075648721098
