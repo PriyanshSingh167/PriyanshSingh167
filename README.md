@@ -21,7 +21,7 @@
 
 ---
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?usernamePriyanshSingh167&theme=dracula)](https://github.com/PriyanshSingh167/github-readme-activity-graph)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=PriyanshSingh167&theme=react-dark)](https://github.com/PriyanshSingh167/github-readme-activity-graph)
 
 ### Contact via Email 📧 <br/>
 #### [Click here](mailto:rosterkhanna@gmail.com)
